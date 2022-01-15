@@ -2,6 +2,8 @@
 
 one:
   name: MyString
+  penname: MyString
 
 two:
   name: MyString
+  penname: MyString
