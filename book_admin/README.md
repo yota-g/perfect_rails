@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+//source ~/.bash_profile を実施する必要あり。
